@@ -61,8 +61,7 @@ export default function DownloadDialog({
 
           <a
             className="button button--primary dialog-download"
-            href="/gawa.apk"
-            download="gawa.apk"
+            href="https://github.com/fangon-m/gawa-website/releases/latest/download/gawa.apk"
             type="application/vnd.android.package-archive"
             onClick={() => dialogRef.current?.close()}
           >
