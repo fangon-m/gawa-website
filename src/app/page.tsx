@@ -344,7 +344,7 @@ export default function Home() {
           <span className="brand-mark">
             <Image src="/gawa-logo.png" width={30} height={31} alt="" />
           </span>
-          <span className="brand-word">GAWA</span>
+          <span className="brand-word">GAWA 1.0.0</span>
         </a>
         <span>Hanap. Gawa. Tapos.</span>
         <span>Made for the people who make it happen.</span>

@@ -93,8 +93,8 @@ button {
 .brand-word {
   color: var(--navy);
   font-family: var(--font-display);
-  font-size: 15px;
-  font-weight: 500;
+  font-size: 9px;
+  font-weight: 400;
   letter-spacing: 0.1em;
 }
 
